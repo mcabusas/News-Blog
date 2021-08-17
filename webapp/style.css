@@ -1,0 +1,43 @@
+p{
+    color: black;
+}
+.navbar-default-top2{
+	background-color: #246b96;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.navbar-nav > li >a{
+    color: white;
+    transition-duration: 0.4s;
+}
+.navbar-nav > li > a:hover{
+    color: #246b96;
+    background-color: white;
+    border-radius: 15px;
+}
+.row>input{
+    font-size: 20px;
+}
+.btn{
+    width: 100%;
+}
+#article{
+    margin-top: 50px;
+}
+#footer{
+    font-family: inherit;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+#subTitlesNav>li>a{
+    color:black;
+}
+#mainContainer{
+    margin-top: 50px;
+}
+.conBtn{
+    margin-top: 5px;
+    color: black;
+}

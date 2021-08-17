@@ -1,0 +1,76 @@
+p{
+    color: black;
+}
+h1{
+    color: black;
+}
+.inputBox{
+    border-radius: 6px;
+}
+.signUpInBox{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+    border: solid black 0.5px;
+    border-radius: 5px;
+    background-color: #c1e6f9;
+}
+.navbar-default-top2{
+	background-color: #246b96;
+    top: 0;
+    width: 100%;
+}
+.navbar-nav > li >a{
+    color: white;
+    transition-duration: 0.4s;
+}
+.navbar-nav > li > a:hover{
+    color: white;
+    background-color: #ff9900;
+    border-radius: 15px;
+}
+.field-wrap{
+	margin-bottom: 35px;
+}
+
+.changePassBox{
+    margin-bottom: 20px;
+    padding-top: 20px;
+	padding-bottom: 20px;
+    border: solid black 0.5px;
+    border-radius: 5px;
+    background-color: #c1e6f9;
+}
+.chgepassBtn{
+    background-color: white; 
+    margin-top: 5px; 
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+.chgepassBtn:hover{
+    background-color: #246b96;
+    color: white;
+}
+
+.registerBtn{
+    background-color: white; 
+    margin-top: 10px; 
+    transition-duration: 0.4s;
+    border-radius: 5px;
+}
+.registerBtn:hover{
+    background-color: #246b96;
+    color: white;
+}
+.registerRow{
+    margin-bottom: -30px;
+}
+.loginBtn{
+    background-color: white; 
+    border-radius: 10px;
+    margin-top: 5px; 
+    transition-duration: 0.4s;
+}
+.loginBtn:hover{
+    background-color: #246b96;
+    color: white;
+}
